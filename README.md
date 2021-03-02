@@ -3,7 +3,7 @@ A terminal based code breaking game.
 
 To use this program, just run it with a python interpreter.  
 
-python Code-Breaking-Game.py -m 5 -l 4  
+python Codebreaker-Game.py -m 5 -l 4  
 
 -m is the max value in the code, 0 to -m. -l is the length of the code.  
 To guess the code, start by passing in any number within range of the max value.  
