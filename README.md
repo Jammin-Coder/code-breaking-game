@@ -10,7 +10,7 @@ To guess the code, start by passing in any number within range of the max value.
 The program will give an output of O's and X's, depending on how accurate your guess was.  
 If you get an X in the output, that means you have a number in the correct index in the code.  
 If you get an O in the output, that means you have the right number, but it is in the wrong index.  
-If you get nothing, then you have not correct numbers.  
+If you get an out put of X's and O's less than the length of the code, then some numbers are incorect.   
 
 Example:  
 My guesss >> 1010  
